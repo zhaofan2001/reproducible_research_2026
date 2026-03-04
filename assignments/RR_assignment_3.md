@@ -23,7 +23,7 @@ git config --global core.editor "nano"
 We're going to pretend we have two developers and a central repository.
 
 
-![Central and local repos](https://github.com/glowform/reproducible-research/blob/main/Assignments/RR3_1.jpg?raw=true "Central and local repos")
+![Central and local repos](https://github.com/jmichankow/reproducible_research_2026/blob/main/assignments/RR3_1.jpg?raw=true "Central and local repos")
 
 
 ### Quick recap
@@ -110,7 +110,7 @@ cd ../Dev2
 git config --local user.name "Developer_2"
 ```
 
-![Working with central repo](https://github.com/glowform/reproducible-research/blob/main/Assignments/RR3_2.jpg?raw=true "Working with central repo")
+![Working with central repo](https://github.com/jmichankow/reproducible_research_2026/blob/main/assignments/RR3_2.jpg?raw=true "Working with central repo")
 
 #### So far all repositories are empty. Let's imagine:
 Dev1 kick-starts the project by creating the branch with one commit and sending it upstream (make sure you are in correct directory)
@@ -234,3 +234,4 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addres
 
 ## Acknowledgements
 Based on the materials prepared by dr Wojciech Hardy
+
