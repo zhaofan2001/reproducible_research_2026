@@ -47,3 +47,5 @@ Deadline for all the assignments is next day by midnight.
 04.03 - Assignment 3. Git Basics cd. [Link](https://github.com/jmichankow/reproducible_research_2026/blob/main/assignments/RR_assignment_3.md)
 
 11.03 - Assignment 4. Remote Repos [Link](https://github.com/jmichankow/reproducible_research_2026/blob/main/assignments/RR_assignment_4.md)
+
+18.03 - Assignment 5. Forking and contributing [Link](https://github.com/jmichankow/reproducible_research_2026/blob/main/assignments/RR_assignment_5.md)
